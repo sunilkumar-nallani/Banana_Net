@@ -32,7 +32,7 @@ Add this to help users run it locally.
 Bash
 
 # Clone the repository
-git clone https://github.com/your-username/banana-ripeness-app.git
+git clone https://github.com/sunilkumar-nallani/Banana_Net.git
 
 # Install dependencies
 pip install -r requirements.txt
